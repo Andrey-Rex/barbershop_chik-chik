@@ -26,6 +26,7 @@ body {
     font-weight: 400;
     line-height: 1.2;
     font-family: Raleway, sans-serif;
+    font-feature-settings: 'pnum' on, 'lnum' on;
     background-color: #241d1c;
     color: #f6f3e3;
  }
